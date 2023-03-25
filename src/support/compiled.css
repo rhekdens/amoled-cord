@@ -2,6 +2,7 @@
 .theme-dark:not(.userProfileOuterThemed-3EfHmv),
 .theme-light:not(.userProfileOuterThemed-3EfHmv),
 .theme-amoled:not(.userProfileOuterThemed-3EfHmv) {
+    --home-icon: url(https://cdn.discordapp.com/attachments/897473112319328256/1089307137840254987/1088335545198989312.svg); 
     --background-primary: hsl(0, calc(var(--saturation-factor, 1) * 0%), 0%);
     --background-secondary: hsl(0, calc(var(--saturation-factor, 1) * 0%), 8%);
     --background-secondary-alt: hsl(0, calc(var(--saturation-factor, 1) * 0%), 10%);
